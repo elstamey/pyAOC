@@ -7,3 +7,4 @@ Open Command Prompt.  This puts you in your User Directory.  You need to make a 
 
 From here on out, you can use the command `py` at the prompt to execute python scripts. Here is an [example program](https://docs.python.org/3/using/windows.html#from-a-script) you can test the command to run a hello script.  
 
+You can get a student GitHub Account, which will let you use PyCharm and any of the Jetbrains IDEs as a student.  [link here](https://education.github.com/discount_requests/application?type=student)
